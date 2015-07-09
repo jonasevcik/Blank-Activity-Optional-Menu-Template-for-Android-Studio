@@ -4,6 +4,6 @@ Template for Android Studio. Lets you create a Blank Activity with or without me
 
 ![Screenshot](1.png)
 
-Copy *BlankActivityOptionalMenu* into *android-studio/plugins/android/lib/templates/activities/* and restart Android Studio.
+Copy `BlankActivityOptionalMenu` into `android-studio/plugins/android/lib/templates/activities/` and restart Android Studio.
 
 
